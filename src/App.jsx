@@ -1,7 +1,9 @@
+import FirstComponent from "./learning/01-describing-the-ui/01-FirstComponent";
+
 export default function App() {
   return (
     <>
-      <h1>Hello World</h1>
+      <FirstComponent />
     </>
   );
 }
