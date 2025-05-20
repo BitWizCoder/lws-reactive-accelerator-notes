@@ -1,9 +1,14 @@
-import React from "react";
+function Logo() {
+  return <img src="https://i.imgur.com/H2gMv9P.png" width={100} alt="Ubuntu Logo" />;
+}
 
-export default function FirstComponent() {
+export default function Gallery() {
   return (
-    <div>
-      <h1>Your First Component</h1>
-    </div>
+    <section>
+      <h1>Ubuntu is a Popular Linux Distribution</h1>
+      <Logo />
+      <Logo />
+      <Logo />
+    </section>
   );
 }
