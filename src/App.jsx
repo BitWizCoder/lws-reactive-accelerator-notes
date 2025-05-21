@@ -1,9 +1,10 @@
-import WritingJSX from "./learning/01-describing-the-ui/03-writing-jsx/03-WritingJSX";
+import JavaScriptInJsx from "./learning/01-describing-the-ui/04-javascript-in-jsx/01-JavaScriptInJsx";
+
 
 export default function App() {
   return (
     <>
-      <WritingJSX />
+      <JavaScriptInJsx />
     </>
   );
 }
