@@ -4,6 +4,6 @@
 
 ## 03. Summery
 
-```javascript
+```js
 // This is a code block
 ```
