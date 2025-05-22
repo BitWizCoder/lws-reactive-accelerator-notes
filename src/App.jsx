@@ -1,9 +1,9 @@
-import PassingProps from "./learning/01-describing-the-ui/05-passing-props/01-PassingProps";
+import RespondingToEvents from "./learning/02-adding-interactivity/01-responding-to-events/01-RespondingToEvents";
 
 export default function App() {
   return (
     <>
-      <PassingProps />
+      <RespondingToEvents />
     </>
   );
 }
